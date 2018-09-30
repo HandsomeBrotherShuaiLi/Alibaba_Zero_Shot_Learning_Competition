@@ -4,6 +4,8 @@
 
 验证集测试情况：
 ![acc](acc.png)
+
+
 1.关于外部数据,使用了Google News语料库与Facebook 的fatstText wordCup Common
 语料库,在word2vec中训练得到词向量模型.
 
